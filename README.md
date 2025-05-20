@@ -1,6 +1,6 @@
 # WTF Gyms Analytics Dashboard
 
-![WTF Gyms Logo](images/logo/wtf_gyms_logo.png)
+![WTF Gyms Logo](images\logo.png)
 
 ## Overview
 
