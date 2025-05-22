@@ -8,6 +8,8 @@ This project showcases a comprehensive business intelligence solution for WTF Gy
 
 WTF Gyms is transforming India's fitness industry by modernizing local gyms through an accessible subscription model of just ₹599/month, making premium fitness experiences available to everyone.
 
+### 🔗 [View the Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWRkMjRlN2EtMWQxNy00ZTY1LWEzYTgtZWY4YTA3ZjVhNmRkIiwidCI6Ijg4MDM5ZDRiLTU0MjYtNDYyMi1hZGQxLTY0Y2UyNTdmMTJjZCJ9&pageName=2c5a572d382ce78f305b)
+
 ## Project Components
 
 ### 1. Data Generation
