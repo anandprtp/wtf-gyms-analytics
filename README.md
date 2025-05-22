@@ -1,6 +1,6 @@
 # WTF Gyms Analytics Dashboard
 
-![WTF Gyms Logo](images\logo\wtf_gyms_logo.png)
+![WTF Gyms Logo](images/logo/wtf_gyms_logo.png)
 
 ## Overview
 
@@ -88,7 +88,6 @@ powerbi/wtf_gyms_dashboard.pbix
 ## Dashboard Preview
 
 ![Executive Dashboard](images/dashboard_screenshots/executive_dashboard.png)
-![Map View](images/dashboard_screenshots/map_view.png)
 ![Gym Performance](images/dashboard_screenshots/gym_performance.png)
 ![Lead Analytics](images/dashboard_screenshots/lead_analytics.png)
 
