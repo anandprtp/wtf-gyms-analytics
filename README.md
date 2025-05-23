@@ -10,14 +10,14 @@ WTF Gyms is transforming India's fitness industry by modernizing local gyms thro
 
 ### 🔗 [View the Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWRkMjRlN2EtMWQxNy00ZTY1LWEzYTgtZWY4YTA3ZjVhNmRkIiwidCI6Ijg4MDM5ZDRiLTU0MjYtNDYyMi1hZGQxLTY0Y2UyNTdmMTJjZCJ9&pageName=2c5a572d382ce78f305b)
 
-## Project Components
+## 📌 Project Components
 
-### 1. Data Generation
+### 1️⃣ **Data Generation**
 - Custom Python script leveraging NumPy and Faker to generate realistic business data
 - MySQL database integration for storing and managing the synthetic data
 - Simulation of realistic business scenarios reflecting WTF Gyms' unique subscription model
 
-### 2. Power BI Dashboard
+### 2️⃣ **Power BI Dashboard**
 The interactive dashboard consists of multiple pages:
 
 - **Executive Dashboard**: High-level KPIs and performance metrics supporting WTF Gyms' expansion
@@ -25,7 +25,7 @@ The interactive dashboard consists of multiple pages:
 - **Gym-Wise Performance**: Detailed analysis of individual gym locations with target comparisons
 - **Lead & Conversion Analytics**: Insights into sales pipeline and revenue generation
 
-### 3. Technical Features
+### 3️⃣ **Technical Features**
 
 - **Data Modeling**: Star schema implementation with fact and dimension tables
 - **Advanced Analytics**: 54+ custom DAX measures for comprehensive business metrics
